@@ -1,5 +1,6 @@
 Soon</sup>TM</sup>:
 1. KMP (knuth morris pratt) string matching
+2. Digit DP
 
 Available:
 1. manacher's algorithm for palindromic substrings
