@@ -8,3 +8,4 @@ Available:
 3. segment tree
 4. union find
 5. Kruskal's Minimum spanning tree
+
