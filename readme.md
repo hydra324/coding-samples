@@ -1,6 +1,7 @@
 Soon</sup>TM</sup>:
 1. Robin_karp string matching algorithm
 2. Z-algorithm
+3. Binary lifting
 
 Available:
 1. manacher's algorithm for palindromic substrings
@@ -10,3 +11,4 @@ Available:
 5. Kruskal's Minimum spanning tree
 6. Digit DP
 7. KMP (knuth morris pratt) string matching
+8. Fenwick Tree a.k.a Binary Index Tree
